@@ -3,11 +3,11 @@ def imprimir():
     # 1. TAREA: imprimir "Hola mundo"
     print('Hola Mundo')
     # 2. imprimir "Hola Noelle!" con el nombre en una variable
-    name = "Noelle"
+    name = "Andrés"
     print('Hola', name)	# con una coma
     print( 'Hola '+ name)	# con un +
     # 3. imprimir "Hola 42!" con un numero en una variable
-    name = 42
+    name = 14
     print('Hola', name)	# con una coma
 
     # 4. imprimir "Me encanta comer sushi and pizza." con los alimentos en variables
